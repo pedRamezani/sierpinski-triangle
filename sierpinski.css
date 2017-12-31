@@ -1,0 +1,18 @@
+canvas {
+  border: 20px #334185;
+  margin: auto;
+}
+
+div {
+  margin-bottom: : 1em;
+}
+
+div.container {
+  display: flex;
+}
+
+div.slider {
+  display: inline-block;
+  margin-left: 50%;
+  transform: translate(-50%,0);
+}
